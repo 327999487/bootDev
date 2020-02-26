@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="borrow_api" target="1.8" />
+      <module name="borrow_base" target="1.8" />
+      <module name="borrow_config" target="1.8" />
+      <module name="borrow_dao" target="1.8" />
+      <module name="borrow_generator" target="1.8" />
+      <module name="borrow_service" target="1.8" />
+      <module name="borrow_stater" target="1.8" />
+      <module name="borrow_web" target="1.8" />
+      <module name="cycfc_borrow_front" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

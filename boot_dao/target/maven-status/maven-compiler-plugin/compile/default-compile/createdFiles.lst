@@ -1,0 +1,6 @@
+com\cycfc\borrow\entity\UserInfoExample$Criteria.class
+com\cycfc\borrow\entity\UserInfoExample$Criterion.class
+com\cycfc\borrow\entity\UserInfo.class
+com\cycfc\borrow\entity\UserInfoExample$GeneratedCriteria.class
+com\cycfc\borrow\entity\UserInfoExample.class
+com\cycfc\borrow\dao\UserInfoMapper.class
